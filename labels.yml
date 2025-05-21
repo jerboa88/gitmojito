@@ -1,0 +1,93 @@
+# Type
+- name: 🐛 bug
+  description: "TYPE: Something isn't working"
+  color: #84cc16
+- name: ✨ feature
+  description: 'TYPE: An enhancement or a new feature'
+  color: #f59e0b
+- name: 📝 docs
+  description: 'TYPE: Documentation only changes'
+  color: #3b82f6
+- name: 💬 question
+  description: 'TYPE: A question about the project'
+  color: #7c3aed
+- name: 🔒 security
+  description: 'TYPE: A code change that improves security'
+  color: #ef4444
+- name: 🚀 performance
+  description: 'TYPE: A code change that improves performance'
+  color: #14b8a6
+- name: ✅ test
+  description: 'TYPE: Adding missing tests or correcting existing tests'
+  color: #22c55e
+- name: ♻️ refactor
+  description: 'TYPE: A code change that neither fixes a bug nor adds a feature'
+  color: #06b6d4
+- name: 🎨 style
+  description: 'TYPE: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.)'
+  color: #ec4899
+- name: 🔧 build
+  description: 'TYPE: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)'
+  color: #64748b
+- name: 👷 ci
+  description: 'TYPE: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)'
+  color: #f97316
+- name: 🌍 i18n
+  description: 'TYPE: Translations and changes related to internationalization'
+  color: #d946ef
+
+# Status
+- name: 🚦 new
+  description: 'STATUS: A new issue that needs triage'
+  color: #1d4ed8
+- name: 🚦 confirmed
+  description: 'STATUS: An issue that have been reproduced and is ready to be worked on'
+  color: #4d7c0f
+- name: 🚦 in progress
+  description: 'STATUS: An issue that is currently being worked on'
+  color: #b45309
+- name: 🚦 blocked
+  description: 'STATUS: An issue that is blocked by another issue, user input, or other external factor'
+  color: #b91c1c
+
+# Priority
+- name: 🚩 low
+  description: 'PRIORITY: An issue that is not urgent'
+  color: #93c5fd
+- name: 🚩 medium
+  description: 'PRIORITY: An issue that is somewhat urgent'
+  color: #fde047
+- name: 🚩 high
+  description: 'PRIORITY: An issue that is urgent'
+  color: #fdba74
+- name: 🚩 critical
+  description: 'PRIORITY: An issue that is critical'
+  color: #fca5a5
+
+# Effort
+- name: ⏳ 1
+  description: 'EFFORT: An issue requiring a very low effort'
+  color: #e4e4e7
+- name: ⏳ 2
+  description: 'EFFORT: An issue requiring a low effort'
+  color: #a1a1aa
+- name: ⏳ 3
+  description: 'EFFORT: An issue requiring a medium effort'
+  color: #52525b
+- name: ⏳ 5
+  description: 'EFFORT: An issue requiring a high effort'
+  color: #27272a
+- name: ⏳ 8
+  description: 'EFFORT: An issue requiring a very high effort'
+  color: #09090b
+
+# Other
+- name: 👋 good first issue
+  description: An issue that is good for first-time contributors
+  color: #fef08a
+- name: 🙋‍♂️ help wanted
+  description: An issue that needs help from the community
+  color: #fef08a
+- name: 🗄️ epic
+  description: An issue that is a collection of other issues
+  color: #fef08a
