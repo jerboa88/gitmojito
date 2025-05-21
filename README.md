@@ -44,20 +44,20 @@ These labels are used to indicate the type of issue/PR. Unique colors and emojis
 ![ci](https://img.shields.io/badge/👷%20ci-f97316)
 ![i18n](https://img.shields.io/badge/🌍%20i18n-d946ef)
 
-| Name          | Description                                                                              | Color                 | Notes                       |
-| ------------- | ---------------------------------------------------------------------------------------- | --------------------- | --------------------------- |
-| ♻️ refactor    | TYPE: A code change that neither fixes a bug nor adds a feature                          | #06b6d4 (Cyan 500)    | **Emoji:** Gitmoji          |
-| ✅ test        | TYPE: Adding missing tests or correcting existing tests                                  | #22c55e (Green 500)   | **Emoji:** Gitmoji          |
-| ✨ feature     | TYPE: An enhancement or a new feature                                                    | #f59e0b (Amber 500)   | **Emoji:** Gitmoji          |
-| 🌍 i18n        | TYPE: Translations and changes related to internationalization                           | #d946ef (Fuschia 500) | **Emoji:** All Contributors |
-| 🎨 style       | TYPE: Changes that do not affect the meaning of the code (white-space, formatting, etc.) | #ec4899 (Pink 500)    | **Emoji:** Gitmoji          |
-| 🐛 bug         | TYPE: Something isn't working                                                            | #84cc16 (Lime 500)    | **Emoji:** Gitmoji,         |
-| 👷 ci          | TYPE: Changes to our CI configuration files and scripts                                  | #f97316 (Orange 500)  | **Emoji:** Gitmoji          |
-| 💬 question    | TYPE: A question about the project                                                       | #7c3aed (Violet 500)  | **Emoji:** All Contributors |
-| 📝 docs        | TYPE: Documentation only changes                                                         | #3b82f6 (Blue 500)    | **Emoji:** Gitmoji          |
-| 🔒 security    | TYPE: A code change that improves security                                               | #ef4444 (Red 500)     | **Emoji:** Gitmoji          |
-| 🔧 build       | TYPE: Changes that affect the build system or external dependencies                      | #64748b (Slate 500)   |                             |
-| 🚀 performance | TYPE: A code change that improves performance                                            | #14b8a6 (Teal 500)    |                             |
+| Name          | Description                                                                                  | Color                 | Notes                       |
+| ------------- | -------------------------------------------------------------------------------------------- | --------------------- | --------------------------- |
+| ♻️ refactor    | TYPE: A code change that neither fixes a bug nor adds a feature                              | #06b6d4 (Cyan 500)    | **Emoji:** Gitmoji          |
+| ✅ test        | TYPE: Adding missing tests or correcting existing tests                                      | #22c55e (Green 500)   | **Emoji:** Gitmoji          |
+| ✨ feature     | TYPE: An enhancement or a new feature                                                        | #f59e0b (Amber 500)   | **Emoji:** Gitmoji          |
+| 🌍 i18n        | TYPE: Translations and changes related to internationalization                               | #d946ef (Fuschia 500) | **Emoji:** All Contributors |
+| 🎨 style       | TYPE: Changes that do not affect the meaning of the code (ex. white-space, formatting, etc.) | #ec4899 (Pink 500)    | **Emoji:** Gitmoji          |
+| 🐛 bug         | TYPE: Something isn't working                                                                | #84cc16 (Lime 500)    | **Emoji:** Gitmoji,         |
+| 👷 ci          | TYPE: Changes to CI configuration files and scripts                                          | #f97316 (Orange 500)  | **Emoji:** Gitmoji          |
+| 💬 question    | TYPE: A question about the project                                                           | #7c3aed (Violet 500)  | **Emoji:** All Contributors |
+| 📝 docs        | TYPE: Documentation only changes                                                             | #3b82f6 (Blue 500)    | **Emoji:** Gitmoji          |
+| 🔒 security    | TYPE: A code change that improves security                                                   | #ef4444 (Red 500)     | **Emoji:** Gitmoji          |
+| 🔧 build       | TYPE: Changes that affect the build system or external dependencies                          | #64748b (Slate 500)   |                             |
+| 🚀 performance | TYPE: A code change that improves performance                                                | #14b8a6 (Teal 500)    |                             |
 
 ### Status
 These labels are used to indicate the status of an issue/PR. They share the same emoji and are color-coded. Darker shades are used to differentiate between other label categories. There are no labels for cancelled or completed issues because GitHub already allow you to close an issue with a reason like 'completed' or 'not planned'.
@@ -113,11 +113,11 @@ These labels are used to indicate other information about an issue/PR. Some repl
 ![help wanted](https://img.shields.io/badge/🙋‍♂️%20help%20wanted-fef08a)
 ![epic](https://img.shields.io/badge/🗄️%20epic-fef08a)
 
-| Name               | Description                                       | Color                | Notes |
-| ------------------ | ------------------------------------------------- | -------------------- | ----- |
-| 👋 good first issue | An issue that is good for first-time contributors | #fef08a (Yellow 200) |       |
-| 🙋‍♂️ help wanted      | An issue that needs help from the community       | #fef08a (Yellow 200) |       |
-| 🗄️ epic             | An issue that is a collection of other issues     | #fef08a (Yellow 200) |       |
+| Name               | Description                                              | Color                | Notes |
+| ------------------ | -------------------------------------------------------- | -------------------- | ----- |
+| 👋 good first issue | OTHER: An issue that is good for first-time contributors | #fef08a (Yellow 200) |       |
+| 🙋‍♂️ help wanted      | OTHER: An issue that needs help from the community       | #fef08a (Yellow 200) |       |
+| 🗄️ epic             | OTHER: An issue that is a collection of other issues     | #fef08a (Yellow 200) |       |
 
 
 ## Usage

@@ -26,13 +26,13 @@
   description: 'TYPE: A code change that neither fixes a bug nor adds a feature'
   color: 06b6d4
 - name: 🎨 style
-  description: 'TYPE: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.)'
+  description: 'TYPE: Changes that do not affect the meaning of the code (ex. white-space, formatting, etc.)'
   color: ec4899
 - name: 🔧 build
-  description: 'TYPE: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)'
+  description: 'TYPE: Changes that affect the build system or external dependencies'
   color: 64748b
 - name: 👷 ci
-  description: 'TYPE: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)'
+  description: 'TYPE: Changes to CI configuration files and scripts'
   color: f97316
 - name: 🌍 i18n
   description: 'TYPE: Translations and changes related to internationalization'
