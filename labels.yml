@@ -85,11 +85,11 @@
 
 # Other
 - name: 👋 good first issue
-  description: An issue that is good for first-time contributors
+  description: 'OTHER: An issue that is good for first-time contributors'
   color: fef08a
 - name: 🙋‍♂️ help wanted
-  description: An issue that needs help from the community
+  description: 'OTHER: An issue that needs help from the community'
   color: fef08a
 - name: 🗄️ epic
-  description: An issue that is a collection of other issues
+  description: 'OTHER: An issue that is a collection of other issues'
   color: fef08a
