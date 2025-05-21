@@ -3,9 +3,6 @@
   <h1 class="projectName">🌿 gitmojito - Gitmoji x GitHub Labels</h1>
 
   <p class="projectBadges">
-    <a href="https://unmaintained.tech/">
-      <img src="https://unmaintained.tech/badge.svg" alt="No Maintenance Intended" title="No Maintenance Intended"/>
-    </a>
     <img src="https://johng.io/badges/category/Other.svg" alt="Project category" title="Project category">
     <img src="https://img.shields.io/github/languages/top/jerboa88/gitmojito.svg" alt="Language" title="Language">
     <img src="https://img.shields.io/github/repo-size/jerboa88/gitmojito.svg" alt="Repository size" title="Repository size">
