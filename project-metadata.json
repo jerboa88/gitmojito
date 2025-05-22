@@ -1,0 +1,6 @@
+{
+	"$schema": "https://johng.io/schema/project-metadata.json",
+	"name": "gitmojito",
+	"tagline": "Gitmoji x GitHub Labels",
+	"category": "Other"
+}
