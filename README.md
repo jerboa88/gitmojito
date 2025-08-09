@@ -148,6 +148,12 @@ Documentation or CI changes do not trigger a new release.
 Contributions, issues, and forks are welcome.
 
 
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+This project is not affiliated with GitHub or Gitmoji.
+
+
 ## 💕 Funding
 
 Find this project useful? [Sponsoring me](https://johng.io/funding) will help me cover costs and **_commit_** more time to open-source.
@@ -161,9 +167,3 @@ If you can't donate but still want to contribute, don't worry. There are many ot
 - ⭐ starring the project
 
 I appreciate the support!
-
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-This project is not affiliated with GitHub or Gitmoji.
