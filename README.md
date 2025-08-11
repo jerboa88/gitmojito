@@ -19,11 +19,11 @@
 </div>
 
 
-## About
+## 👋 About
 gitmojito is a set of reusable Emoji labels for GitHub issues and PRs. These labels are designed to be as universal as possible, but you can customize them to fit your needs. Since every project is different, I would recommend using the labels as a starting point and adapting them to your project, rather than the other way around.
 
 
-## Labels
+## 🏷️ Labels
 Names, descriptions, and emojis used are based on popular conventions like [Gitmoji](https://gitmoji.dev/), [All Contributors](https://allcontributors.org/), [Conventional Commits](https://www.conventionalcommits.org/), [the Angular convention](https://github.com/angular/angular/blob/main/contributing-docs/commit-message-guidelines.md), and [the default GitHub labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#about-default-labels). The colors used are from the [Tailwind CSS v4 color palette](https://tailwindcss.com/docs/colors#default-color-palette).
 
 Labels are written in lowercase to speed up repeated typing. They are grouped into several categories. Generally, labels in the same category share the same emoji to group them together.
@@ -120,7 +120,7 @@ These labels are used to indicate other information about an issue/PR. Some repl
 | 🗄️ epic             | OTHER: An issue that is a collection of other issues     | #fef08a (Yellow 200) |       |
 
 
-## Usage
+## 🕹️Usage
 See [labels.yml](labels.yml) for the list of labels in YAML format.
 
 You can manually create these labels in your GitHub repository, or they can be automatically synced between repositories with the GitHub API using [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) or [brpaz/action-label-syncer](https://github.com/brpaz/action-label-syncer) (an updated fork).
@@ -128,7 +128,10 @@ You can manually create these labels in your GitHub repository, or they can be a
 If you are getting the labels programmatically, I would recommend fixing the tag to a specific version like `v1.0.0` instead of using `latest`, as the labels may change over time.
 
 
-## Versioning
+## 🤝Contributing
+Contributions, issues, and forks are welcome.
+
+### Versioning
 This project follows [Semantic Versioning](https://semver.org/) with the following guidelines:
 
 Major:
@@ -144,11 +147,7 @@ Minor:
 Documentation or CI changes do not trigger a new release.
 
 
-## Contributing
-Contributions, issues, and forks are welcome.
-
-
-## License
+## 🧾 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 This project is not affiliated with GitHub or Gitmoji.
